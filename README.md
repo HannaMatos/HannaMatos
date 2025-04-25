@@ -8,7 +8,6 @@
 Me chamo **Neshelem Jorrana** tenho 19 anos, moro em Manaus Am, sou estudante do 3º em Análise e Desenvolvimento de Sistemas, meu objetivo é ser Backend.
 
 
-<img align="center" alt="rafaelq80-Java" height="100" width="100" src="https://th.bing.com/th/id/OIP.FmIW6pjB6_ucSTR-TrraFgHaEK?w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"/>
 
 ### ✨ Curiosidades
 
