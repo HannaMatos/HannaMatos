@@ -2,16 +2,19 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 
 ## Sobre mim
 
-Olá, me chamo **Neshelem**!
+<img align="right" src=".github/image.png" width="300"/> 
 
-Sou **Universitaria de ADS** busco aprimorar meus conhecimentos em **Banco de dados** e aprender mais sobre **Backend**.
+Me chamo **Neshelem JOrrana** tenho 19 anos, moro em Manaus Am, sou estudante do 3º em Análise e Desenvolvimento de Sistemas, meu objetivo é ser Backend.
 
+[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/JPS2bY6GVy)
+### ✨ Curiosidades
 
-
+- Sou fã de Harry Potter.
+- Gosto de tocar violão e ler muito.
+- Até o momento sei cuidar de um "peixe Beta".
 
 <h1>UniNorte</h1>
 
