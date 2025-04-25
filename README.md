@@ -5,11 +5,11 @@
 
 ## Sobre mim
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="https://www.bing.com/images/search?q=imagem%20herri%20potter&FORM=IQFRBA&id=D6CE35FA6EAC66E2EFEBFE856A3D3688AB7155FD" width="300"/> 
 
-Me chamo **Neshelem JOrrana** tenho 19 anos, moro em Manaus Am, sou estudante do 3º em Análise e Desenvolvimento de Sistemas, meu objetivo é ser Backend.
+Me chamo **Neshelem Jorrana** tenho 19 anos, moro em Manaus Am, sou estudante do 3º em Análise e Desenvolvimento de Sistemas, meu objetivo é ser Backend.
 
-[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/JPS2bY6GVy)
+
 ### ✨ Curiosidades
 
 - Sou fã de Harry Potter.
