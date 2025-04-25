@@ -18,7 +18,7 @@ Me chamo **Neshelem Jorrana** tenho 19 anos, moro em Manaus Am, sou estudante do
 <h1>UniNorte</h1>
 
 
-<h2>Principais Interesses</h2>
+<h2>Principais Interesses:</h2>
 
 <h3>Backend</h3>
 
