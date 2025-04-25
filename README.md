@@ -2,10 +2,7 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-## Gif
-
-https://picrew.me/image_maker/338224
-
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 
 ## Sobre mim
 
