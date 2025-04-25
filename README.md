@@ -1,6 +1,7 @@
 # :man_technologist: Jorrana
 
-## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
+## Hello! <img src="https://www.bing.com/images/search?q=imagem%20herri%20potter&FORM=IQFRBA&id=D6CE35FA6EAC66E2EFEBFE856A3D3688AB7155FD" width="22">
+
 
 
 ## Sobre mim
