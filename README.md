@@ -1,7 +1,5 @@
-## Hi there 👋
+# :man_technologist: Jorrana
 
-
-Sou a Hanna!
 
 <h1>UniNorte</h1>
 
