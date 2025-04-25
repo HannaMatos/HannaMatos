@@ -5,7 +5,6 @@
 
 ## Sobre mim
 
-<img align="right" src="https://www.bing.com/images/search?q=imagem%20herri%20potter&FORM=IQFRBA&id=D6CE35FA6EAC66E2EFEBFE856A3D3688AB7155FD" width="600"/> 
 
 Me chamo **Neshelem Jorrana** tenho 19 anos, moro em Manaus Am, sou estudante do 3º em Análise e Desenvolvimento de Sistemas, meu objetivo é ser Backend.
 
