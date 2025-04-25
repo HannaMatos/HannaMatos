@@ -1,8 +1,6 @@
 # :man_technologist: Jorrana
 
-## Hello! <img src="https://www.bing.com/images/search?q=imagem%20herri%20potter&FORM=IQFRBA&id=D6CE35FA6EAC66E2EFEBFE856A3D3688AB7155FD" width="22">
-
-
+## Hello! <img align="center" alt="rafaelq80-Java" height="50" width="40" src="https://th.bing.com/th/id/OIP.FmIW6pjB6_ucSTR-TrraFgHaEK?w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"/>
 
 ## Sobre mim
 
