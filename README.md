@@ -2,6 +2,11 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
+## Gif
+
+https://picrew.me/image_maker/338224
+
+
 ## Sobre mim
 
 Olá, me chamo **Neshelem**!
