@@ -2,6 +2,15 @@
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
+## Sobre mim
+
+Olá, me chamo **Neshelem**!
+
+Sou **Universitaria de ADS** busco aprimorar meus conhecimentos em **Banco de dados** e aprender mais sobre **Backend**.
+
+
+
+
 <h1>UniNorte</h1>
 
 
